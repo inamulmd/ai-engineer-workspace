@@ -1,0 +1,12 @@
+
+
+
+
+
+IPython
+python-dotenv
+openai
+ipykernel
+beautifulsoup4
+requests
+ollama
