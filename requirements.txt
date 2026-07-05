@@ -10,3 +10,7 @@ ipykernel
 beautifulsoup4
 requests
 ollama
+langchain-openai
+langchain-ollama
+langchain-openrouter
+litellm
